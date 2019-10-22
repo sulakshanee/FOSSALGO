@@ -1,5 +1,5 @@
 array = []
-for i in range(11):
+for i in range(5):
     a = int(input("enter num :"))
     b = array.append(a)
 print("Array --------> ", array)
